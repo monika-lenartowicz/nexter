@@ -44,9 +44,4 @@ body {
 		)
 		[center-end] minmax(6rem, 1fr) [full-end];
 	//pierwsza kolumna 80px, 2 kolumny rozłożone po równo jako margines później, i 8 kolumn, width między minimum kontent a 1400 px
-
-	& > * {
-		font-size: 3rem;
-		padding: 40px;
-	}
 }
